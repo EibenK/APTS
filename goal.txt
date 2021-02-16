@@ -1,0 +1,8 @@
+The goal of this application is to make a destination tracker for a flight simulator.
+
+-Create a global storage of destinations that will get autopicked for the next destination.
+-The destination of the flight will be auto updated and for test purposes the flight will run forever until ctrl-Z is called
+
+Files:
+	-Header + object file plane
+	-main
